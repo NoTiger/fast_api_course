@@ -1,0 +1,4 @@
+// start dev server 
+// main => file name
+// app => instance variable name; e.g. app = FastAPI()
+uvicorn main:app --reload
